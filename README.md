@@ -2,7 +2,7 @@
 
 Interview prepation repository after UCI graudation.
 
-Sections:
+## Sections:
 - CTCI
 - EPI (Link to EPI repo)
 - Leetcode
